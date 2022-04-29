@@ -12,8 +12,7 @@ What Is a Backorder?
 •	There must be a way for the company to know for which products they may face a backorder problem. So, the company has shared a data file with different input features for each product, and it hopes to find a pattern inside this data that can give them some insight.
  
 
-#Dataset Details 
-
+# Dataset Details 
 The dataset contains 23 columns including 22 features and one target column.
 To model and predict the target, we’ll use the features columns, which are:
 
